@@ -15,6 +15,8 @@ https://zhuanlan.zhihu.com/p/23864355
 雪城大学   学费$25970/年
 
  USF 南弗罗里达大学，美国综排160
+ 
+ 伊利诺伊理工学院IIT
 
 [新泽西理工学院（njit）](http://www6.njit.edu/admissions/graduate/howtoapply/criteria/masters-programs.php) [介绍](http://www.qianmu.org/%E6%96%B0%E6%B3%BD%E8%A5%BF%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2） T79 GPA2.8 全美排名135，学费便宜
 
