@@ -23,6 +23,10 @@ https://zhuanlan.zhihu.com/p/23864355
 [2018年美国大学研究生托福成绩要求(汇总)](http://toefl.koolearn.com/20170728/818400.html)
 
 
+# 参考文章：
+
 [2015 Fall CS 申请总结 ＋ 转专业友好校名单](https://www.mitbbs.com/clubarticle_t/biojailbreak/149229.html)
 
 [普211标准三维EE零基础转CS申](http://blog.csdn.net/shenziheng1/article/details/51088432)
+
+[去美帝学计算机科学？这些学校牛到不行！](http://www.sohu.com/a/129574303_372460)
