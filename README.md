@@ -1,2 +1,3 @@
-# shuhuidong.github.io
-Hi, I am shuhui dong from China. This is my first github site.
+# 选校 
+
+[介绍一下USC 37学分项目- 知乎专栏](https://zhuanlan.zhihu.com/p/23864355) 
