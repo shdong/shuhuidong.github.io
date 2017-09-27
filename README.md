@@ -8,3 +8,6 @@ USC CS37 T90
 [南加州大学硕士预科值不推荐？](https://www.zhihu.com/question/26866303) 
 https://zhuanlan.zhihu.com/p/23864355 
 
+
+
+[最新：2018年U.S.News美国大学计算机专业排名（附学费及GRE数学均分）](http://www.zmnedu.com/yjs/lxzy/39826.html)
