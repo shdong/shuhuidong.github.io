@@ -40,3 +40,5 @@ https://zhuanlan.zhihu.com/p/23864355
 [很想转CS但怕失学！求推荐一些我能申上且可以学到CS课的项目](http://www.1point3acres.com/bbs/thread-147816-1-1.html)
 
 [转专业申请风险很大！](https://www.douban.com/note/558395592/)
+
+[boston/Massachusetts周围CS学校及就业点评](https://warald.wordpress.com/2009/06/18/bostonmassachusetts%E5%91%A8%E5%9B%B4cs%E5%AD%A6%E6%A0%A1%E5%8F%8A%E5%B0%B1%E4%B8%9A%E7%82%B9%E8%AF%84/)
