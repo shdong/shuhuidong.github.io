@@ -36,3 +36,5 @@ https://zhuanlan.zhihu.com/p/23864355
 [美国大学为转专业申请 CS开设特殊项目的学校清单](https://zhuanlan.zhihu.com/p/27539443)
 
 [很想转CS但怕失学！求推荐一些我能申上且可以学到CS课的项目](http://www.1point3acres.com/bbs/thread-147816-1-1.html)
+
+[转专业申请风险很大！](https://www.douban.com/note/558395592/)
